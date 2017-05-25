@@ -1,5 +1,5 @@
 {
-  "name": "retweet-lister",
+  "name": "get-tweet-retweeters",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
