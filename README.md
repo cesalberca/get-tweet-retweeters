@@ -23,6 +23,6 @@ Gets all the handles of the user who have retweeted a given tweet via command li
     }
     ```
 
-## Usage
+## Usage
 
 `npm start <tweet-id>`
